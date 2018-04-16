@@ -23,9 +23,9 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 -->
 <nav>
       <ul>
-        <li><a href="#"><b>Arctic</b></a></li>
-        <li><a href="#">Alpine</a></li>
-        <li><a href="#">Antarctic</a></li>
+        <li><a href="#"> <b> Events </b> </a></li>
+        <li><a href="#"> Leadership </a></li>
+        <li><a href="#"> Contact </a></li>
       </ul>
 </nav>
 
