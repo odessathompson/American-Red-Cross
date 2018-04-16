@@ -21,6 +21,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 -->
+
+
 <nav>
       <ul>
         <li><a href="#"> <b> Events </b> </a></li>
@@ -37,13 +39,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 <h2> What is American Red Cross? </h2>
 <p> text block <p>
-  
-<h2> Events </h2>
-<h3> Volunteer Opportunities </h3>
-<h3> Blood Drive <h3>
-<h3> Clark County Food Bank </h3>
-
-<h2> 2017/2018 Leadership </h2>
 
 <h2> Frequently Asked Questions </h2>
 
