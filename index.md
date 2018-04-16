@@ -21,3 +21,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 -->
+
+![GitHub Logo](https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/American_Red_Cross_logo.svg/1200px-American_Red_Cross_logo.svg.png)
+Format: ![Alt Text](url)
