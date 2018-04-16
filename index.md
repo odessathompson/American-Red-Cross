@@ -21,6 +21,14 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 -->
+<nav>
+      <ul>
+        <li><a href="#"><b>Arctic</b></a></li>
+        <li><a href="#">Alpine</a></li>
+        <li><a href="#">Antarctic</a></li>
+      </ul>
+</nav>
+
 <head>
   <h1> American Red Cross </h1>
 </head>
@@ -39,13 +47,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 <h2> Frequently Asked Questions </h2>
 
-<nav>
-      <ul>
-        <li><a href="#"><b>Arctic</b></a></li>
-        <li><a href="#">Alpine</a></li>
-        <li><a href="#">Antarctic</a></li>
-      </ul>
-      <div class="contact-btn"><a>Contact</a>
-      </div>
-    </nav>
+
 
