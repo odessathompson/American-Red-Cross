@@ -22,20 +22,20 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 -->
 <head>
-  <title> American Red Cross </title>
+  <h1> American Red Cross </h1>
 </head>
 
 ![GitHub Logo](https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/American_Red_Cross_logo.svg/1200px-American_Red_Cross_logo.svg.png)
 
-<h1> What is American Red Cross? </h1>
+<h2> What is American Red Cross? </h2>
 <p> text block <p>
   
-<h1> Events </h1>
-<h2> Volunteer Opportunities <h2>
-<h2> Blood Drive <h2>
-<h2> Clark County Food Bank <h2>
+<h2> Events </h2>
+<h3> Volunteer Opportunities </h3>
+<h3> Blood Drive <h3>
+<h3> Clark County Food Bank </h3>
 
-<h1> 2017/2018 Leadership </h1>
+<h2> 2017/2018 Leadership </h2>
 
-<h1> Frequently Asked Questions </h1>
+<h2> Frequently Asked Questions </h2>
 
