@@ -39,3 +39,13 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 <h2> Frequently Asked Questions </h2>
 
+<nav>
+      <ul>
+        <li><a href="#"><b>Arctic</b></a></li>
+        <li><a href="#">Alpine</a></li>
+        <li><a href="#">Antarctic</a></li>
+      </ul>
+      <div class="contact-btn"><a>Contact</a>
+      </div>
+    </nav>
+
