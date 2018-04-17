@@ -2,6 +2,10 @@
 ---
 @import "{{ site.theme }}";
 
+header{
+  background-color: #f66253;
+}
+
 #project_title{
   font-familiy: Monserrat;
 }
