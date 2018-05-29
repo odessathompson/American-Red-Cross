@@ -40,7 +40,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 <h3> Sound the Alarm</h3>
 <p>Camas Red Cross also participates in Red Cross Sound the Alarm campaign. Sound the Alarm: Save a Life is a recurring national event where Red Cross volunteers partner with fire departments and community groups across the country to install FREE smoke alarms, educate families about fire prevention, and map fire escape routes. You can learn more about this event in the video below. </p>
-<embed src="https://www.youtube.com/watch?v=wZLnftHC-n0&feature=youtu.be" autostart="false" height="30" width="144" />
+<iframe width="640" height="390" src="https://youtu.be/wZLnftHC-n0" frameborder="0" allowfullscreen></iframe>
+
 
 <h3> Sound the Alarm</h3>
 <p>The Camas Red Cross club also attends the annual Leadership Development Conference. The Leadership Development Conference, or LDC, is an annual Red Cross event organized by the SWWA Red Cross Youth Council. We host student-led leadership classes, free CPR certification, hands-on volunteering, and other fun activities. </p>
