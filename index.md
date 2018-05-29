@@ -51,7 +51,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 <iframe width="854" height="480" src="https://www.youtube.com/embed/wZLnftHC-n0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
-<h3> Sound the Alarm</h3>
+<h3> Leadership Development Conference</h3>
 <p>The Camas Red Cross club also attends the annual Leadership Development Conference. The Leadership Development Conference, or LDC, is an annual Red Cross event organized by the SWWA Red Cross Youth Council. We host student-led leadership classes, free CPR certification, hands-on volunteering, and other fun activities. </p>
 <img src="https://drive.google.com/thumbnail?id=1Fn51gzDU6ENzZbYkvTC-H7Hfk3O-3OCO&authuser=0&sz=w2851-h1391" alt="blood" style="margin-left: auto; margin-right: auto">
 
