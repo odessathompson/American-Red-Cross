@@ -56,6 +56,12 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 <img src="https://drive.google.com/thumbnail?id=1Fn51gzDU6ENzZbYkvTC-H7Hfk3O-3OCO&authuser=0&sz=w2851-h1391" alt="blood" style="margin-left: auto; margin-right: auto">
 
 <h2> Frequently Asked Questions </h2>
+<h4>When does Red Cross meet?</h4>
+<p>Directly after school every other Tuesday.</p>
+<h4>What are my responsibilites in Red Cross?</h4>
+<p>Come to at least one meeting a month, participate in one Red Cross sponsered event each month, and volunteer two hours every month.</p>
+<h4>Why should I join?</h4>
+<p>Red Cross is a fantastic way to make a difference in your community, meet new people, and become involved in your school! Plus there are excellent snacks!</p>
 
 
 
