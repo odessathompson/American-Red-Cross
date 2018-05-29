@@ -32,6 +32,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 <h2> What is American Red Cross? </h2>
 <p> The American Red Cross, also known as the American National Red Cross, is a humanitarian organization that provides emergency assistance, disaster relief, and disaster preparedness education in the United States. <p>
+ 
+<h2> What is American Red Cross? </h2>
 
 <h2> Camas High School Events </h2>
 <h3> Annual Blood Drive</h3>
@@ -40,7 +42,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 <h3> Sound the Alarm</h3>
 <p>Camas Red Cross also participates in Red Cross Sound the Alarm campaign. Sound the Alarm: Save a Life is a recurring national event where Red Cross volunteers partner with fire departments and community groups across the country to install FREE smoke alarms, educate families about fire prevention, and map fire escape routes. You can learn more about this event in the video below. </p>
-<iframe width="640" height="390" src="https://youtu.be/wZLnftHC-n0" frameborder="0" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/wZLnftHC-n0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 <h3> Sound the Alarm</h3>
