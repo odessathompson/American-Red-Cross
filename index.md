@@ -25,19 +25,15 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/main.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
 
-<nav>
-      <ul>
-        <li><a href="#"> <b> Events </b> </a></li>
-        <li><a href="#"> Leadership </a></li>
-        <li><a href="#"> Contact </a></li>
-      </ul>
-</nav>
+![GitHub Logo](https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/American_Red_Cross_logo.svg/1200px-American_Red_Cross_logo.svg.png)
+
+![GitHub Logo](https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/American_Red_Cross_logo.svg/1200px-American_Red_Cross_logo.svg.png)
 
 <head>
   <h1> American Red Cross </h1>
 </head>
 
-![GitHub Logo](https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/American_Red_Cross_logo.svg/1200px-American_Red_Cross_logo.svg.png)
+
 
 <h2> What is American Red Cross? </h2>
 <p> text block <p>
