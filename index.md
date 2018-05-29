@@ -35,10 +35,10 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
  
 <h2> 2018/2019 Leadership Team </h2>
 <ul>
-    <li>President: Angela Xu</li>
-    <li>Vice President: Walter Scheldorf</li>
-    <li>Secretary:  Momina Naushab</li>
-    <li>Treasurer: Yoonseo Jung</li>
+    <li>**President**: Angela Xu</li>
+    <li>**Vice President**: Walter Scheldorf</li>
+    <li>**Secretary**:  Momina Naushab</li>
+    <li>**Treasurer**: Yoonseo Jung</li>
  </ul>
 
 <h2> Camas High School Events </h2>
