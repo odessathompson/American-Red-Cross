@@ -33,7 +33,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 <h2> What is American Red Cross? </h2>
 <p> The American Red Cross, also known as the American National Red Cross, is a humanitarian organization that provides emergency assistance, disaster relief, and disaster preparedness education in the United States. <p>
 
-![Camas Red Cross](https://www.asburylive.org/wp-content/uploads/2013/05/Red-Cross-Blood-Donor-1024x682.jpg)
 <img src="https://www.asburylive.org/wp-content/uploads/2013/05/Red-Cross-Blood-Donor-1024x682.jpg" alt="blood" style="margin-left: auto; margin-right: auto">
 
 <h2> Frequently Asked Questions </h2>
