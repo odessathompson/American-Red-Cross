@@ -33,7 +33,13 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 <h2> What is American Red Cross? </h2>
 <p> The American Red Cross, also known as the American National Red Cross, is a humanitarian organization that provides emergency assistance, disaster relief, and disaster preparedness education in the United States. <p>
 
+<h2> Camas High School Events </h2>
+<h3> Annual Blood Drive</h3>
+<p>The Camas chapter of Red Cross puts on an annual blood drive to raise blood for those in need. One pint of blood can save up to three lives! Members of the club raise awareness within the school, sign up volunteers, man the canteens, and of course give blood. This is one of the crucial volunteering events for Red Cross and can make a large difference within the community.</p>
 <img src="https://www.asburylive.org/wp-content/uploads/2013/05/Red-Cross-Blood-Donor-1024x682.jpg" alt="blood" style="margin-left: auto; margin-right: auto">
+<h3> Sound the Alarm</h3>
+<p>Camas Red Cross also participates in Red Cross Sound the Alarm campaign. Sound the Alarm: Save a Life is a recurring national event where Red Cross volunteers partner with fire departments and community groups across the country to install FREE smoke alarms, educate families about fire prevention, and map fire escape routes. You can learn more about this event in the video below. </p>
+<embed src="https://www.youtube.com/watch?v=wZLnftHC-n0&feature=youtu.be" autostart="false" height="30" width="144" />
 
 <h2> Frequently Asked Questions </h2>
 
