@@ -34,12 +34,12 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 <p> The American Red Cross, also known as the American National Red Cross, is a humanitarian organization that provides emergency assistance, disaster relief, and disaster preparedness education in the United States. <p>
  
 <h2> 2018/2019 Leadership Team </h2>
-<h4> 
-    -President: Angela Xu
-    -Vice President: Walter Scheldorf
-    -Secretary:  Momina Naushab
-    -Treasurer: Yoonseo Jung
-<h4>
+<ul>
+    <li>President: Angela Xu</li>
+    <li>Vice President: Walter Scheldorf</li>
+    <li>Secretary:  Momina Naushab</li>
+    <li>Treasurer: Yoonseo Jung</li>
+ </ul>
 
 <h2> Camas High School Events </h2>
 <h3> Annual Blood Drive</h3>
