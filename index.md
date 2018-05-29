@@ -59,7 +59,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 <h4>When does Red Cross meet?</h4>
 <p>Directly after school every other Tuesday.</p>
 <h4>What are my responsibilites in Red Cross?</h4>
-<p>Come to at least one meeting a month, participate in one Red Cross sponsered event each month, and volunteer two hours every month.</p>
+<p>Come to at least one meeting a month, participate in one Red Cross sponsored event each month, and volunteer two hours every month.</p>
 <h4>Why should I join?</h4>
 <p>Red Cross is a fantastic way to make a difference in your community, meet new people, and become involved in your school! Plus there are excellent snacks!</p>
 
